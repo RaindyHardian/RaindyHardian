@@ -1,5 +1,3 @@
-## Hi, I'm Raindy 👋
-
 Software engineer
 
 <div >
